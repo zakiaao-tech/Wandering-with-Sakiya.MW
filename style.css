@@ -1,0 +1,42 @@
+h1 {
+  color: midnightblue;
+}
+
+h2 {
+  color: powderblue;
+}
+
+h3 {
+  background-color: powderblue;
+}
+
+p {
+  color: midnightblue;
+}
+
+ol {
+  color: powderblue;
+}
+
+body {
+  background-color: beige;
+}
+
+h4 {
+  color: midnightblue;
+}
+
+#pic1 {
+  width: 300px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+h5 {
+  color: midnightblue;
+}
+
+ul {
+  color: powderblue;
+}
